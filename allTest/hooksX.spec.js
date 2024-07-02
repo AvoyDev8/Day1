@@ -58,7 +58,7 @@ test("TC_02 Create Order request", async () => {
 //   await page.click(
 //     "//span[text()=' SAML Login ']/parent::*"
 //   );
-//   await page.fill('//input[@name="email"]', "amrita123@yopmail.com");
+//   await page.fill('//input[@name="email"]', "amrita123@yopmail.com");    10015 6452 446
 //   await page.click('//button[@type="submit"]');
 //   await page.fill('//input[@type="password"]', "Password@123");
 //   await page.click('//button[@type="submit"]');
